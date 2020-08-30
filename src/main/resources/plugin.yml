@@ -1,0 +1,36 @@
+name: BaeHyeonWooPL
+main: com.github.qogusdn1017.hyeonwoosimple.SimpleMain
+version: "0.0.1"
+author: BaeHyeonWoo / qogusdn1017
+api-version: "1.16"
+commands:
+  ci:
+    description: ""
+  compass:
+    description: ""
+  pvp:
+    description: ""
+  god:
+    description: ""
+  ev:
+    description: ""
+  rmgod:
+    description: ""
+  rmev:
+    description: ""
+  giveop:
+    description: ""
+  gm:
+    description: ""
+  cdifficulty:
+    description: ""
+  챠:
+    description: ""
+  야투:
+    description: ""
+  나침반:
+    description: ""
+  야간투시:
+    description: ""
+  nv:
+    description: ""
