@@ -1,7 +1,7 @@
 # HyeonWooSimple
 Simplified Version of **[[BaeHyeonWooPL](https://github.com/qogusdn1017/BaeHyeonWooPL)]**.
 
-API Version as [[Paper 1.16.1]()]. See **[[PaperMC](https://papermc.io)]** for details.
+API Version as [[Paper 1.16.1](https://papermc.io/ci/job/Paper-1.16/138/)]. See **[[PaperMC](https://papermc.io)]** for details.
 
 ---
 
